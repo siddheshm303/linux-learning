@@ -9,13 +9,13 @@ Two beginner-friendly Linux/Bash scripting mini projects for practice and GitHub
 ### 1. **Greeting Script**
 - ✅ Custom greeting using `if`, `elif`, and `else`
 - ✅ Validates user input
-- 📄 File: `01-greeting-script/ifelifelse.sh`
+- 📄 File: `ifelifelse.sh`
 
 ### 2. **Variables**
 - 🧠 Demonstrates variable creation and reassignment
 - 🔒 Declares a constant using `readonly`
 - ❌ Attempts to overwrite a constant (will cause an error)
-- 📄 File: `02-variables/variables.sh`
+- 📄 File: `variables.sh`
 
 
 ## ▶️ How to Use
