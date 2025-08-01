@@ -1,6 +1,6 @@
 ## 🧷 Main README.md (in root folder)
 
-# Linux Mini Projects
+# Shell scripting mini Projects
 
 Two beginner-friendly Linux/Bash scripting mini projects for practice and GitHub portfolio.
 
