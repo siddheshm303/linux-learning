@@ -17,6 +17,7 @@ Two beginner-friendly Linux/Bash scripting mini projects for practice and GitHub
 - ❌ Attempts to overwrite a constant (will cause an error)
 - 📄 File: `variables.sh`
 
+### 3. **Arrays**
 
 ## ▶️ How to Use
 
