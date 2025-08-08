@@ -1,0 +1,2 @@
+Focus on MERN Stack development.
+Then do some projects. Real one!
