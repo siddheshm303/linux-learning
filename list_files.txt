@@ -1,0 +1,11 @@
+Core Skills:
+
+Programming & Scripting: PL/SQL, Shell Scripting, Java, JavaScript
+
+Operating Systems: Unix/Linux, Windows
+
+Databases: PostgreSQL, MySQL, Oracle (PL/SQL)
+
+Backend Development: Java Spring Boot, REST API creation
+
+Tools: Git, Postman, Docker (Basics)

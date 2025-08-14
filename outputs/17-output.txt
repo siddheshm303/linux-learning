@@ -4,9 +4,3 @@ File: 11-forloop-all.sh
 13:	for i in {1..10};
 23:	for (( j=0;j<${#marks[@]};j++ ));
 --------------------------------------
-File: 17-args-process-files.sh
-3:#Purpose: Search for a keyword in multiple files and save results
-16:echo "Searching for $keyword in given files..."
-21:for file in "$@"; do
-38:echo "Done! Check '$output_file' for result."
---------------------------------------
